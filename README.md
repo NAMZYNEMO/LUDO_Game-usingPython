@@ -1,2 +1,10 @@
 # LUDO_Game-usingPython
 Ludo is a classic board game that originated in India and is played by 2 to 4 players. The game is usually played on a square board with a cross-shaped play area divided into four colored sections, each of which is designated for one player. 
+The players take turns rolling a single die to move their tokens around the board, with the goal of moving all their tokens from the starting area to the home area.  Here's a brief overview of how to play Ludo:
+1. **Setup**: Each player chooses a color and places their four tokens in their respective starting areas. Players take turns rolling the die to determine who goes first, with the highest roll starting the game.
+2. **Gameplay**: Players take turns rolling a six-sided die and moving their tokens around the board accordingly. Players must move their tokens the number of spaces indicated by the die roll in a clockwise direction along the track. If a player rolls a six, they get to roll again.
+3. **Entering the Board**: To enter a token onto the board from the starting area, a player must roll a six. Once a six is rolled, the player can choose which token to move onto the starting space.
+4. **Capturing Opponent's Tokens**: If a player lands on a space occupied by an opponent's token, the opponent's token is captured and sent back to its starting area. However, if the player rolls the exact number needed to land on a space occupied by an opponent's token, they cannot capture it.
+5. **Safety Zones**: Each player's "home" section of the board contains safe zones where opponents cannot capture tokens. Players must move their tokens into their home zone and then move them up the columns to the center of the board to win the game.
+6. **Winning the Game**: The first player to move all of their tokens into the center of the board wins the game.  Ludo is a game of luck combined with some strategic decisions regarding which tokens to move and when to do so.
+Ludo is a game of luck combined with some strategic decisions regarding which tokens to move and when to do so.
